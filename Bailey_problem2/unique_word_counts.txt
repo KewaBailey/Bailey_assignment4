@@ -1,0 +1,13 @@
+mm : 1
+may : 1
+any : 3
+way : 1
+stay : 1
+seem : 1
+the : 4
+kbaby : 2
+keem : 1
+how : 1
+patient : 1
+has : 1
+who : 2
